@@ -13,4 +13,4 @@ Weather:
   All the data received is parsed into readable format which follows the temperature and time format given by the user. 
   (Pictures below explain the calls and show how the bot reply looks)
   
-![alt text] (https://github.com/[namanmolri/NeatBot/Screenshot2020-09-04at1.27.06PM.png?raw=true
+![]https://github.com/namanmolri/NeatBot/blob/main/screenshotsBot/Screenshot%202020-09-04%20at%201.27.06%20PM.png
