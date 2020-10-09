@@ -12,4 +12,5 @@ Weather:
   - The website allows us to call for the weather data of the place with zipcode(only in the USA) and by city name's (worldwide).
   All the data received is parsed into readable format which follows the temperature and time format given by the user. 
   (Pictures below explain the calls and show how the bot reply looks)
-![alt text]https://github.com/namanmolri/NeatBot/blob/main/screenshotsBot/Screenshot%202020-09-04%20at%201.27.06%20PM.png
+  
+![alt text] (https://github.com/[namanmolri/NeatBot/Screenshot 2020-09-04 at 1.27.06 PM.png
