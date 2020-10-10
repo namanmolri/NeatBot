@@ -1,6 +1,7 @@
 # NeatBot
 
-INTRODUCTION
+INTRODUCTION:
+
 This a bot I worked on to understand the basics of API use and how to connect to resources and parse knowledge from them into a legible format. The other goal for this project is to learn better UI and frontend design. The application is not the most complicated, but a lot of my time has been poured into learning user requirements and making it interesting to use.
 
 The NeatBot is a call based one so unless the messages do not written with the special prefix, followed by the command word, the bot does not reply with the specific information requested by the user in the Discord Server channel. 
