@@ -65,6 +65,14 @@ When the "movie" command is called without a suffix after one or more searches.
 <img width="965" alt="Screenshot 2020-10-10 at 1 38 22 PM" src="https://user-images.githubusercontent.com/56141766/95661548-2f82bc00-0afe-11eb-9480-9c8de723911e.png">
 
 
+
+
+
+
+
+
+
+
 <strong>Learning Outcomes:</strong> This project was starting to keep myself engaged during the summer months, but in the process I have learnt a lot. Some of these learning outcomes were: 
 
   - Learning JavaScript while building a project. Learning how to find and use the right features in JS
