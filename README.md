@@ -36,7 +36,8 @@ When "admin" command is used in the server. Here the command has sent a DM to th
     prompts the user when it thinks they have provided the wrong zipcode or city name. 
  
 When user prompts the bot with the "weather" command suffixed with a US zipcode.
-<img width="487" alt="Screenshot 2020-09-04 at 1 31 08 PM" src="https://user-images.githubusercontent.com/56141766/95640139-52af5c00-0a69-11eb-92ee-  247a65b692aa.png">
+<img width="487" alt="Screenshot 2020-09-04 at 1 31 08 PM" src="https://user-images.githubusercontent.com/56141766/95799253-1c204e00-0cc2-11eb-8ecc-1ad314852bc7.png">
+
 
 When user prompts the bot with the "weather" command suffixed with a city name.
 <img width="565" alt="Screenshot 2020-09-04 at 1 31 34 PM" src="https://user-images.githubusercontent.com/56141766/95640156-66f35900-0a69-11eb-9f16-33f03e583a9b.png">
