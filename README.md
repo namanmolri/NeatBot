@@ -1,7 +1,7 @@
 # NeatBot
 
 To Download and use:
-   Download the zip of this repository and unzip the folder. <br><ul>Navigate to the folder and run the command ```node bot.js``` and it will launch the bot.<ul> Uou can add it to your server by looking up its name: ```NeatBot#5208```. (The bot needs an auth (API KEY) for itself, the movieDB app and Weather app, which is not provided in this code but can be generated on Discord and the other relevant services and put into the ```auth.json``` file to allow the fucntionalities to function.)
+   Download the zip of this repository and unzip the folder. <br><ul>Navigate to the folder and run the command ```node bot.js``` and it will launch the bot.<ul> You can add it to your server by looking up its name: ```NeatBot#5208```. (The bot needs an <strong>auth (API KEY)</strong> for itself, the movieDB app and Weather app, which is not provided in this code but can be generated on Discord and the other relevant services and put into the ```auth.json``` file to allow the fucntionalities to function.)
 
 INTRODUCTION:
 
